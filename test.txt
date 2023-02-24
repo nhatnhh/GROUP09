@@ -2,7 +2,7 @@
                                              DANH SÁCH NHÓM 09 - PTUD MNN
 
 1. Nguyễn Hữu Nhật - 205748020110020
-2. 
+2. dinh bạt kiên - 205748020110035
 
 
 node: Các bạn nhập họ và tên và mã sinh viên vào nhé
